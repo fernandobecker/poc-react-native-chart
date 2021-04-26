@@ -1,4 +1,4 @@
-# POC Reeact Native Chart
+# POC React Native Chart
 
 POC usando a biblioteca Victory Chart
 
